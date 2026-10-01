@@ -25,5 +25,5 @@ Hacer Hacer una tarta de manzana en casa es un proceso muy fácil si sigues las 
 Puedes encontrar más recetas en [Recetas de Cocina](https://www.marialunarillos.com/blog/)
 Fotografía del plato terminado: 
 <!--Tarta de manzana casera-->
-![Tarta](tarta01.jpeg)
+![Tarta](images/tarta01.jpeg)
 
