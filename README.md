@@ -27,3 +27,5 @@ Fotografía del plato terminado:
 <!--Tarta de manzana casera-->
 ![Tarta](images/tarta01.jpeg)
 
+*Enlace a nueva receta:* [Nueva Receta](markadown/receta_nueva.md)
+
